@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/The-Cat-Dog-Project/static/css/main.918a6d07.chunk.css",
+    "main.js": "/The-Cat-Dog-Project/static/js/main.f02cc47c.chunk.js",
+    "main.js.map": "/The-Cat-Dog-Project/static/js/main.f02cc47c.chunk.js.map",
+    "runtime-main.js": "/The-Cat-Dog-Project/static/js/runtime-main.d7d954f7.js",
+    "runtime-main.js.map": "/The-Cat-Dog-Project/static/js/runtime-main.d7d954f7.js.map",
+    "static/css/2.c0cdccd9.chunk.css": "/The-Cat-Dog-Project/static/css/2.c0cdccd9.chunk.css",
+    "static/js/2.46fe34d8.chunk.js": "/The-Cat-Dog-Project/static/js/2.46fe34d8.chunk.js",
+    "static/js/2.46fe34d8.chunk.js.map": "/The-Cat-Dog-Project/static/js/2.46fe34d8.chunk.js.map",
+    "index.html": "/The-Cat-Dog-Project/index.html",
+    "precache-manifest.6d5f9d93c711a754f2770b48ba68268f.js": "/The-Cat-Dog-Project/precache-manifest.6d5f9d93c711a754f2770b48ba68268f.js",
+    "service-worker.js": "/The-Cat-Dog-Project/service-worker.js",
+    "static/css/2.c0cdccd9.chunk.css.map": "/The-Cat-Dog-Project/static/css/2.c0cdccd9.chunk.css.map",
+    "static/css/main.918a6d07.chunk.css.map": "/The-Cat-Dog-Project/static/css/main.918a6d07.chunk.css.map",
+    "static/js/2.46fe34d8.chunk.js.LICENSE.txt": "/The-Cat-Dog-Project/static/js/2.46fe34d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7d954f7.js",
+    "static/css/2.c0cdccd9.chunk.css",
+    "static/js/2.46fe34d8.chunk.js",
+    "static/css/main.918a6d07.chunk.css",
+    "static/js/main.f02cc47c.chunk.js"
+  ]
+}
