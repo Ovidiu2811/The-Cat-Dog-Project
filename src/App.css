@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(32, 48, 78);
+    height: 10vh;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#root > div > div > a{
+    color: rgba(235, 235, 235, 0.74);
+}
+#root > div > div > a:hover{
+    color:white;
+    transform: scale(1.1);
+    text-shadow: 0 0 10px #FFFFFF;
+}
